@@ -1,0 +1,119 @@
+/* #tableAA{
+    padding:10px  10px ;
+    border: 3px saddlebrown solid;
+    background-color: chartreuse;
+    
+
+}
+#bb{
+    background-color: blue;
+}
+#zz{
+    padding: 10px 20px;
+    border:rgb(255, 0, 13) solid;
+}
+
+
+
+#dd{
+    padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+#ee{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#ff{
+    padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;
+
+}
+#gg{padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;
+
+}
+#hh{padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;}
+
+#ii{padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;}
+    
+#jj{padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;}
+
+#kk{padding: 05px 10px;
+    border: 05px rgb(8, 19, 8) solid;
+    background-color: darkolivegreen;
+    text-align: center;} 
+
+    #ll{padding: 05px 10px;
+        border: 05px rgb(8, 19, 8) solid;
+        background-color: darkolivegreen;
+        text-align: center;} */
+
+
+
+#aa{
+    padding: 10px 20px;
+    border: 3px solid black
+    width: 50%;
+
+}
+#bb{
+    background-color: rgb(22, 100, 22);
+    
+width: 50% ;
+border: 3px saddlebrown;
+padding: 10px 20px;
+
+}
+#cc{
+    padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;
+}
+#dd{padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;
+}
+#ee{
+    padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;
+}
+
+
+#ff{padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;}
+#gg{padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;}
+#hh{padding: 05px 10px;
+    border: 05px rgb(36, 196, 36) solid;
+    background-color: rgb(48, 47, 107);
+    text-align: center;}
+
+    #zz{ 
+        background-color: red;
+    }

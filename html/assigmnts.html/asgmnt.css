@@ -1,0 +1,31 @@
+.section{
+    background-image: url(d:\Flag_of_Palestine.svg.webp);
+}
+
+.div-1 {
+    background-color: rgba(0, 255, 0, 0.767);
+    color: rgb(255, 0, 140);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: large;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 60px;
+
+}
+.div-2{
+background-color: rgb(235, 131, 131);
+color: chartreuse;text-align: center;
+font-weight: 600;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-transform: capitalize;
+}
+.para1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 65px; 
+    text-transform: capitalize;
+    text-align: center;
+}

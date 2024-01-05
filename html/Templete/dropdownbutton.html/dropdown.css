@@ -1,0 +1,17 @@
+.sec-2{
+    /* background-image: url(./cafe-3537801_1280.jpg) */
+    background-image: url(./cafe-3537801_1280.jpg);
+    height: 100vh;
+    background-position: center; 
+    background-size: cover;  
+}
+.top-nav3{
+ padding: 10px;
+ justify-content: space-around;
+ display: flex;
+text-align: center;
+color: red;
+font-size: 20px;
+}
+
+
